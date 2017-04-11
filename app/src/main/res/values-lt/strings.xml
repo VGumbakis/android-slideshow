@@ -11,7 +11,8 @@
 
 	<!-- List -->
 	<string name="inaccessible">(nepasiekiama)</string>
-	<string name="go_home_folder">Užstrigo? Paspauskite, kad grįžti įpradžią</string>
+	<string name="go_home_folder">Užstrigo? Paspauskite, kad grįžti į pradžią</string>
+	<string name="play_folder">Paleisti nuotraukų demonstravimą nuo čia</string>
 
 	<!-- Slideshow -->
 	<string name="title_activity_image">Nuotraukų veiksena</string>
@@ -67,6 +68,12 @@
 		ar ne.
 	</string>
 
+	<string name="pref_title_play_from_here">Įgalinti "paleisti nuo čia" mygtuką</string>
+	<string name="pref_description_play_from_here">"Paleisti nuo čia" mygtukas atsiranda bylų sąraše ir leidžia
+		nuotraukų demonstravimą nuo paskiausiojo aplankalo, įskaitant visus viduje esančius aplankalus.
+		Ši funkcija pagal nutylėjimą yra išjungta, nes gali lėtinti įrenginį.
+	</string>
+	
 	<string name="pref_title_use_device_root">Naudoti įrenginio šakninį aplankalą</string>
 	<string name="pref_description_use_device_root">Įgalinti priėjimą prie įrenginio šakninio 
 		aplankalo. Tai įgalins priėjimą prie bet kurių bylų esančių įrenginyje, Įskaitant prijungtus atminties 
